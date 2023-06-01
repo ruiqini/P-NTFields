@@ -17,4 +17,14 @@ This repository is the official implementation of "Progressive Learning for Phys
 
 ## Videos
 
-| ![](fig/real1.gif) | ![](fig/real2.gif) | ![](fig/real3.gif) |
+|      Example 1     |       
+| :----------------: | 
+| ![](fig/real1.gif) |
+
+|      Example 2     |       
+| :----------------: | 
+| ![](fig/real2.gif) |
+
+|      Example 3     |       
+| :----------------: | 
+| ![](fig/real3.gif) |
