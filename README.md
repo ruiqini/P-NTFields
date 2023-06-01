@@ -6,7 +6,7 @@
 [Ahmed H Qureshi](https://qureshiahmed.github.io/)
 
 
-<img src="fig/fig.png" width="648.4" height="196.4">
+<img src="fig/fig.png" width="778.1" height="235.7">
 
 
 _Published in RSS 2023._
