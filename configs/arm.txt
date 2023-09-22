@@ -1,0 +1,6 @@
+exp_name = arm
+data_dir = datasets/arm
+split_file = datasets/arm/split_arm.npz
+input_data_glob = /*/untitled.obj
+num_dim = 6
+num_samples = 2000000

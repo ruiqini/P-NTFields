@@ -1,0 +1,6 @@
+exp_name = c3d
+data_dir = datasets/c3d
+split_file = datasets/c3d/split_c3d.npz
+input_data_glob = /*/model.obj
+num_dim = 3
+num_samples = 200000

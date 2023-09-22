@@ -1,0 +1,6 @@
+exp_name = gibson
+data_dir = datasets/gibson
+split_file = datasets/gibson/split_scene.npz
+input_data_glob = /*/mesh_z_up.obj
+num_dim = 3
+num_samples = 1000000
