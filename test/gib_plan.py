@@ -1,3 +1,6 @@
+import sys
+
+sys.path.append('.')
 from models import model_res_sigmoid_multi as md
 import torch
 import os 

@@ -90,7 +90,7 @@ def arm_obstacle_obb(th_batch, chain, out_path_, margin):
         bbox[:3] = bbox[:3] + margin
         bbox[3:] = bbox[3:] - margin
         rob_corner_list.append(bbox_corner(bbox))
-    #bbox of obs, can be further accelerated by BVH
+    #hard code bbox of obs, can be further accelerated by BVH
     bbox = torch.tensor([0.7,-0.5,1.0,-0.6,-0.7,-0.7]).cuda().float()
     obs_points = bbox_corner(bbox)
 
