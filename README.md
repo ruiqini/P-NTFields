@@ -8,7 +8,7 @@
 
 <img src="fig/fig.png" width="778.1" height="235.7">
 
-_[Paper](https://roboticsconference.org/program/papers/063/) |
+_[Paper](https://www.roboticsproceedings.org/rss19/p063.html) |
 [GitHub](https://github.com/ruiqini/P-NTFields) |
 [arXiv](https://arxiv.org/abs/2306.00616) |
 Published in RSS 2023._
