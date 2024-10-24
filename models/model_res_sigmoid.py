@@ -939,7 +939,7 @@ class Model():
 
         # Initialising the network
         #self._init_network()
-        self.B = torch.normal(0,1,size=(128,self.dim))
+        self.B = 0.5 * torch.normal(0,1,size=(128,self.dim))
         #torch.save(B, self.Params['ModelPath']+'/B.pt')
 
         self.network = NN(self.Params['Device'],self.dim, self.B)
