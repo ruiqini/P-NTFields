@@ -475,7 +475,7 @@ def sample_speed(path, numsamples, dim):
 
         print(end-start)
 
-        B = np.random.normal(0, 1, size=(3, 128))
+        B = 0.5 * np.random.normal(0, 1, size=(3, 128))
 
         np.save('{}/sampled_points'.format(out_path),sampled_points)
         np.save('{}/speed'.format(out_path),speed)
